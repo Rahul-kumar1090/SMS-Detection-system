@@ -1,0 +1,8 @@
+{
+  "name": "Spam Email/SMS Detection System",
+  "description": "Natural Language Processing and Machine Learning workbench for automated Email and SMS spam classification using TF-IDF, Bag of Words, Naive Bayes, Logistic Regression, and Support Vector Machines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
